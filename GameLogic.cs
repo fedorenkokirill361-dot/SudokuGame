@@ -1,5 +1,9 @@
 ﻿using System;
 
+// Автор: fedorenkokirill361-dot
+// Лабораторная работа №5
+// Игра Судоку с рандомной генерацией и уровнями сложности
+
 namespace SudokuGame
 {
     public enum Difficulty
